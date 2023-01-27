@@ -1,0 +1,2 @@
+# StockTish
+A chess engine
