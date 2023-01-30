@@ -1,2 +1,2 @@
-# StockTish
+# Puthi
 A chess engine
